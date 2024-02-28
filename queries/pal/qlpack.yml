@@ -1,6 +1,0 @@
-name: pqcee/qcve-runner
-version: 0.0.0
-dependencies:
-    #this must match your query language
-    codeql/javascript-all: "*"
-
