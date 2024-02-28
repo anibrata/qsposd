@@ -1,4 +1,4 @@
-name: pqcee/qcve-runner
+name: anibrata/qsposd
 version: 0.0.0
 dependencies:
     #this must match your query language
